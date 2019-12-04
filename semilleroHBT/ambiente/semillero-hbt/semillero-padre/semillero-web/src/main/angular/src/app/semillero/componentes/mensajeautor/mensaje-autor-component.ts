@@ -10,10 +10,13 @@ export class MensajeAutorComponent implements OnInit {
    
        ngOnInit(): void {
         
+        
     }
    
         constructor() {
                   }
+
+
 
 
 
